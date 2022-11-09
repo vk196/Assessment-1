@@ -26,20 +26,24 @@ h1{
 }
 #sub {
     color: rgb(141, 141, 143);
-    margin-top: 34px;
+    margin: 45px 0 -4px 0;
     font-weight: 589;   
     font-size: 20px;
 }
 h2{
     font-style: italic;
+    margin-top: 30px;
+
+
 }
 p{
     line-height: 24px;
+
 }
 .wrapper{
     border: 5px solid purple;
     border-radius: 12px;
-    background-color: #eeeeee;
+    background-color: #e5e2e2;
 }
 ul {
     padding: 12px auto;
