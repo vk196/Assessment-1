@@ -5,7 +5,6 @@ body{
     color: rgb(40, 39, 39);
     margin: 0;
     padding: 0;
-    height: 100vh;
 }
 .container{
     width: 40%;
@@ -25,10 +24,10 @@ h1{
     border-bottom: 10px dotted purple;
 }
 #sub {
-    color: rgb(141, 141, 143);
+    color: rgb(149, 149, 152);
     margin: 45px 0 -4px 0;
-    font-weight: 589;   
-    font-size: 20px;
+    font-weight: 507;   
+    font-size: 21px;
 }
 h2{
     font-style: italic;
